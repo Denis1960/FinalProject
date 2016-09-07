@@ -17,7 +17,7 @@ You can access the application at https://denisedwards.shinyapps.io/FinalProject
 User Interface
 ========================================================
 The user interface is simple and prompts users with the information needed to plan a flight. Each tab contains information useful for flight planning.
-
+***
 ![alt text](UI.jpg)
 
 What carrier and flight should I choose?
