@@ -14,6 +14,17 @@ The Flight Options application provides users with delay statistics for all airl
 
 You can access the application at https://denisedwards.shinyapps.io/FinalProject/
 
+The data for this application is derived from the flights dataset. Here is a sample of the data. (Fulfills assignment requirement of embedding R in presentation)
+========================================================
+
+```
+                    Code FlightNo DepTime
+1 American Airlines Inc.       43    1057
+2 American Airlines Inc.       43    1056
+3 American Airlines Inc.       43    1055
+4 American Airlines Inc.       43    1102
+5 American Airlines Inc.       43    1240
+```
 User Interface
 ========================================================
 The user interface is simple and prompts users with the information needed to plan a flight. Each tab contains information useful for flight planning.
