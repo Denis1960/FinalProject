@@ -6,7 +6,6 @@ autosize: true
 
 Developing Data Products - Flight Options
 ========================================================
-
 The Flight Options application provides users with delay statistics for all airlines flying between a selected pair of cities.
 
 - The application is easy to use and driven by drop down lists to select flight origin, destination and month of travel
@@ -15,19 +14,17 @@ The Flight Options application provides users with delay statistics for all airl
 
 You can access the application at https://denisedwards.shinyapps.io/FinalProject/
 
-
 User Interface
 ========================================================
-
 The user interface is simple and prompts users with the information needed to plan a flight. Each tab contains information useful for flight planning.
 
 ![alt text](UI.jpg)
 
 What carrier and flight should I choose?
 ========================================================
-
 To fly between Dallas and Seattle we see that both Alasaka Airlines and American Airlines have a flight with no delay history. 
 ![alt text](BestFlight.jpg)
+
 ***
 For all flights, American Airlines has slightly more delay minutes per delay so perhaps the Alaska Airlines flight is best. 
 
@@ -35,7 +32,6 @@ For all flights, American Airlines has slightly more delay minutes per delay so 
 
 When should I fly?
 ========================================================
-
 Choosing the flight that leaves between 8AM and 10AM historically results in fewer delay minutes.  
 ![alt text](Time.jpg)
 ***
